@@ -1,0 +1,10 @@
+room information
+
+room size(m):  4.29  7.20  3.39
+sound source position(m):  1.00  1.50  2.00
+mic position(m):  1.25   2.30   0.90	  1.35   2.30   0.90	
+mic distance(m):  0.10
+reflection order: 10.00
+reveberation times(s):  0.83
+reflection coefficient:  0.40
+channel number:  2.00
